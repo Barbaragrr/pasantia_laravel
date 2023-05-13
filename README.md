@@ -12,6 +12,8 @@ Requisitos:
   
 -NodeJS
 
+-Composer
+
 -Laravel
 
 

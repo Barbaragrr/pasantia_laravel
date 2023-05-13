@@ -3,7 +3,7 @@ Servidor de archivos en Laravel
 
 Pasos para compilar este proyecto:
 
-Requisitos:
+Requisitos:\n
 -MySQL 8.0+
   -MySQL Server
 -NodeJS

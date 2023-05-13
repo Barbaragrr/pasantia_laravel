@@ -3,6 +3,7 @@ Servidor de archivos en Laravel
 
 Pasos para compilar este proyecto:
 
+
 Requisitos:
 
 -MySQL 8.0+
@@ -13,7 +14,8 @@ Requisitos:
 
 -Laravel
 
-Abrir una instancia de la carpeta raiz del mismo en VSCode.
+
+Abrir una instancia de la carpeta raiz del proyecto en VSCode.
 
 Abrir una nueva terminal con Ctrl+Shift+Ñ
 
